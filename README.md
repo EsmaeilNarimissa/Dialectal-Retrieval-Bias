@@ -1,6 +1,10 @@
 # Dialectal Bias in Retrieval-Augmented Generation (RAG) Systems
 
-This repository contains the code and documentation for a Proof-of-Concept (PoC) study investigating dialectal bias in the retrieval component of RAG systems. The primary objective is to quantitatively assess whether retrieval performance differs when querying a corpus with Standard American English (SAE) versus synthetically generated African American Vernacular English (AAVE).
+This repository is a proof-of-concept (PoC) study exploring whether RAG systems show bias against non-mainstream varieties of English.  
+The aim is to test if retrieval performance differs when queries are expressed in dialectal English (e.g. African American Vernacular English, Australian English, Indian English) compared to mainstream forms.  
+The broader goal is to develop methods for detecting and mitigating such bias, making RAG pipelines more equitable and inclusive.  
+
+The current prototype uses paired datasets of Standard American English (SAE) and synthetically generated dialectal queries to compare retrieval accuracy across different models.
 
 ## Project Workflow
 
