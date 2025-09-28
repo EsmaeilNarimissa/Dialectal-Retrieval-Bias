@@ -1,0 +1,1602 @@
+[
+  {
+    "id": 0,
+    "squad_idx": 85143,
+    "sae_query": "Who overshadowed House Speaker Dennis Hastert?",
+    "aave_query": "Who overshadow House Speaker Dennis Hastert?",
+    "source": "squad",
+    "conversion_method": "llm_synthetic"
+  },
+  {
+    "id": 1,
+    "squad_idx": 14741,
+    "sae_query": "Who released Mosaic?",
+    "aave_query": "Who released Mosaic?",
+    "source": "squad",
+    "conversion_method": "llm_synthetic"
+  },
+  {
+    "id": 2,
+    "squad_idx": 3320,
+    "sae_query": "How deep was the focus of the earthquake?",
+    "aave_query": "How deep the focus of the earthquake?",
+    "source": "squad",
+    "conversion_method": "llm_synthetic"
+  },
+  {
+    "id": 3,
+    "squad_idx": 36349,
+    "sae_query": "A person is not a member of a racial minority if ancetry does not what?",
+    "aave_query": "A person ain’t a member of a racial minority if ancestry don’t do what?",
+    "source": "squad",
+    "conversion_method": "llm_synthetic"
+  },
+  {
+    "id": 4,
+    "squad_idx": 32363,
+    "sae_query": "When was the first 3.7 cm FlaK 18 introduced?",
+    "aave_query": "When was the first 3.7 cm FlaK 18 introduced?",
+    "source": "squad",
+    "conversion_method": "llm_synthetic"
+  },
+  {
+    "id": 5,
+    "squad_idx": 29500,
+    "sae_query": "The simple dashboard could be accessed by pressing what controller button?",
+    "aave_query": "The simple dashboard could be accessed by pressing what controller button?",
+    "source": "squad",
+    "conversion_method": "llm_synthetic"
+  },
+  {
+    "id": 6,
+    "squad_idx": 18460,
+    "sae_query": "What is an example of a stringed chordal instrument during the Baroque period?",
+    "aave_query": "What example of a stringed chordal instrument was around during the Baroque period?",
+    "source": "squad",
+    "conversion_method": "llm_synthetic"
+  },
+  {
+    "id": 7,
+    "squad_idx": 13575,
+    "sae_query": "What company did Seagram buy in 1999?",
+    "aave_query": "What did company Seagram buy in 1999?",
+    "source": "squad",
+    "conversion_method": "llm_synthetic"
+  },
+  {
+    "id": 8,
+    "squad_idx": 72682,
+    "sae_query": "What type of laser is used in a LaserDisc player?",
+    "aave_query": "What type of laser they use in a LaserDisc player?",
+    "source": "squad",
+    "conversion_method": "llm_synthetic"
+  },
+  {
+    "id": 9,
+    "squad_idx": 11528,
+    "sae_query": "In what city does Plymouth's ferry to Spain terminate?",
+    "aave_query": "What city Plymouth's ferry to Spain terminate in?",
+    "source": "squad",
+    "conversion_method": "llm_synthetic"
+  },
+  {
+    "id": 10,
+    "squad_idx": 78674,
+    "sae_query": "What general led the troops that burned Richmond?",
+    "aave_query": "What general led the troops that burned Richmond?",
+    "source": "squad",
+    "conversion_method": "llm_synthetic"
+  },
+  {
+    "id": 11,
+    "squad_idx": 56300,
+    "sae_query": "Which of Darwin's books featured a plant whose elaborate structure aided with fertilization by insects?",
+    "aave_query": "Which of Darwin's books feature a plant whose elaborate structure helped with fertilization by insects?",
+    "source": "squad",
+    "conversion_method": "llm_synthetic"
+  },
+  {
+    "id": 12,
+    "squad_idx": 4214,
+    "sae_query": "In 2014, millionaires made up what percentage of New York City's population?",
+    "aave_query": "In 2014, millionaires made up what percentage of New York City population?",
+    "source": "squad",
+    "conversion_method": "llm_synthetic"
+  },
+  {
+    "id": 13,
+    "squad_idx": 3954,
+    "sae_query": "What events provoked the immigration of people from Germany?",
+    "aave_query": "What events made people from Germany immigrate?",
+    "source": "squad",
+    "conversion_method": "llm_synthetic"
+  },
+  {
+    "id": 14,
+    "squad_idx": 12415,
+    "sae_query": "Along with cabaret, striptease, bands and drama, what is a type of stage performance that can be found in pubs?",
+    "aave_query": "Along with cabaret, striptease, bands and drama, what type of stage performance you can find in pubs?",
+    "source": "squad",
+    "conversion_method": "llm_synthetic"
+  },
+  {
+    "id": 15,
+    "squad_idx": 28899,
+    "sae_query": "What can a \"bolt\" prevent an aircraft from doing?",
+    "aave_query": "What a \"bolt\" can prevent an aircraft from doing?",
+    "source": "squad",
+    "conversion_method": "llm_synthetic"
+  },
+  {
+    "id": 16,
+    "squad_idx": 30744,
+    "sae_query": "Do romantic relationships tend to increase or decrease throughout adolescence?",
+    "aave_query": "Do romantic relationships tend to go up or down throughout adolescence?",
+    "source": "squad",
+    "conversion_method": "llm_synthetic"
+  },
+  {
+    "id": 17,
+    "squad_idx": 67351,
+    "sae_query": "In what century did Leibniz propose the idea of Latin: vis viva?",
+    "aave_query": "Which century Leibniz propose the idea of Latin: vis viva?",
+    "source": "squad",
+    "conversion_method": "llm_synthetic"
+  },
+  {
+    "id": 18,
+    "squad_idx": 80194,
+    "sae_query": "What is the primary function of the PC Settings app?",
+    "aave_query": "What the primary function of the PC Settings app?",
+    "source": "squad",
+    "conversion_method": "llm_synthetic"
+  },
+  {
+    "id": 19,
+    "squad_idx": 3525,
+    "sae_query": "How many schools were reconstructed?",
+    "aave_query": "How many schools got reconstructed?",
+    "source": "squad",
+    "conversion_method": "llm_synthetic"
+  },
+  {
+    "id": 20,
+    "squad_idx": 74795,
+    "sae_query": "How far back would some scholars extend Victoria's reign?",
+    "aave_query": "How far back would some scholars say Victoria’s reign go?",
+    "source": "squad",
+    "conversion_method": "llm_synthetic"
+  },
+  {
+    "id": 21,
+    "squad_idx": 26296,
+    "sae_query": "What color are the socks traditionally worn in England's away kits?",
+    "aave_query": "What color the socks be in England's away kits?",
+    "source": "squad",
+    "conversion_method": "llm_synthetic"
+  },
+  {
+    "id": 22,
+    "squad_idx": 86530,
+    "sae_query": "What are police usually separate from?",
+    "aave_query": "What the police usually separate from?",
+    "source": "squad",
+    "conversion_method": "llm_synthetic"
+  },
+  {
+    "id": 23,
+    "squad_idx": 72625,
+    "sae_query": "What dye was known as the Blood of Saint John?",
+    "aave_query": "What dye was known as the Blood of Saint John?",
+    "source": "squad",
+    "conversion_method": "llm_synthetic"
+  },
+  {
+    "id": 24,
+    "squad_idx": 55981,
+    "sae_query": "How many times has North Carolina hosted the NCAA final four?",
+    "aave_query": "How many times North Carolina done hosted the NCAA final four?",
+    "source": "squad",
+    "conversion_method": "llm_synthetic"
+  },
+  {
+    "id": 25,
+    "squad_idx": 29136,
+    "sae_query": "What is the most populous geographic county in the UK?",
+    "aave_query": "What the most populous geographic county in the UK?",
+    "source": "squad",
+    "conversion_method": "llm_synthetic"
+  },
+  {
+    "id": 26,
+    "squad_idx": 59915,
+    "sae_query": "How does the Cambridge English Dictionary define \"Culture\" in short?",
+    "aave_query": "How does the Cambridge English Dictionary define \"Culture\" in short?",
+    "source": "squad",
+    "conversion_method": "llm_synthetic"
+  },
+  {
+    "id": 27,
+    "squad_idx": 78506,
+    "sae_query": "How many planes did the U.S. lose?",
+    "aave_query": "How did many planes the U.S. lose?",
+    "source": "squad",
+    "conversion_method": "llm_synthetic"
+  },
+  {
+    "id": 28,
+    "squad_idx": 36768,
+    "sae_query": "How much did Pfizer settle the illegal marketing suit for?",
+    "aave_query": "How did much Pfizer settle the illegal marketing suit for?",
+    "source": "squad",
+    "conversion_method": "llm_synthetic"
+  },
+  {
+    "id": 29,
+    "squad_idx": 865,
+    "sae_query": "What about Beyonce has influenced many entertainers?",
+    "aave_query": "What ’bout Beyonce done influenced many entertainers?",
+    "source": "squad",
+    "conversion_method": "llm_synthetic"
+  },
+  {
+    "id": 30,
+    "squad_idx": 21129,
+    "sae_query": "What is the lowest error rate that occurs in eukaryotic cells?",
+    "aave_query": "What's the lowest error rate that be in eukaryotic cells?",
+    "source": "squad",
+    "conversion_method": "llm_synthetic"
+  },
+  {
+    "id": 31,
+    "squad_idx": 56391,
+    "sae_query": "In what fields has Darwin's theory of evolution become particularly essential?",
+    "aave_query": "In what fields Darwin's theory of evolution been particularly essential?",
+    "source": "squad",
+    "conversion_method": "llm_synthetic"
+  },
+  {
+    "id": 32,
+    "squad_idx": 45241,
+    "sae_query": "Which magazine interviewed Brian May about Live Aid?",
+    "aave_query": "Which magazine interviewed Brian May ’bout Live Aid?",
+    "source": "squad",
+    "conversion_method": "llm_synthetic"
+  },
+  {
+    "id": 33,
+    "squad_idx": 36725,
+    "sae_query": "How many patients received Zocor?",
+    "aave_query": "How many patients got Zocor?",
+    "source": "squad",
+    "conversion_method": "llm_synthetic"
+  },
+  {
+    "id": 34,
+    "squad_idx": 20577,
+    "sae_query": "What is the entrance of the ancient Roman tunnel where \"Virgil's tomb\" is located also called?",
+    "aave_query": "What the entrance of the ancient Roman tunnel where \"Virgil's tomb\" at also called?",
+    "source": "squad",
+    "conversion_method": "llm_synthetic"
+  },
+  {
+    "id": 35,
+    "squad_idx": 28463,
+    "sae_query": "What flag was removed from the club's crest?",
+    "aave_query": "What flag got removed from the club's crest?",
+    "source": "squad",
+    "conversion_method": "llm_synthetic"
+  },
+  {
+    "id": 36,
+    "squad_idx": 44619,
+    "sae_query": "How many visitors does BYU Museum of Paleontology receive each year?",
+    "aave_query": "How does many visitors BYU Museum of Paleontology get each year?",
+    "source": "squad",
+    "conversion_method": "llm_synthetic"
+  },
+  {
+    "id": 37,
+    "squad_idx": 13537,
+    "sae_query": "Who did many of Universal-International's Arabian Nights films feature?",
+    "aave_query": "Who did many of Universal-International's Arabian Nights films feature?",
+    "source": "squad",
+    "conversion_method": "llm_synthetic"
+  },
+  {
+    "id": 38,
+    "squad_idx": 12291,
+    "sae_query": "What was a colloquial term for the off-sales counter?",
+    "aave_query": "What was a slang term for the off-sales counter?",
+    "source": "squad",
+    "conversion_method": "llm_synthetic"
+  },
+  {
+    "id": 39,
+    "squad_idx": 50652,
+    "sae_query": "Why did Albert fear speaking in public?",
+    "aave_query": "Why did Albert scared to speak in public?",
+    "source": "squad",
+    "conversion_method": "llm_synthetic"
+  },
+  {
+    "id": 40,
+    "squad_idx": 12812,
+    "sae_query": "What offices employ US transportation and Air force bases?",
+    "aave_query": "What offices employ US transportation and Air Force bases?",
+    "source": "squad",
+    "conversion_method": "llm_synthetic"
+  },
+  {
+    "id": 41,
+    "squad_idx": 47731,
+    "sae_query": "Where any of the Burmese films ever used as an instrument to influence the people ?",
+    "aave_query": "Were any of the Burmese films ever used as an instrument to influence the people?",
+    "source": "squad",
+    "conversion_method": "llm_synthetic"
+  },
+  {
+    "id": 42,
+    "squad_idx": 45736,
+    "sae_query": "What can make classification of predators problematic when using a food pyramid?",
+    "aave_query": "What make classification of predators problematic when using a food pyramid?",
+    "source": "squad",
+    "conversion_method": "llm_synthetic"
+  },
+  {
+    "id": 43,
+    "squad_idx": 80420,
+    "sae_query": "When were there some extreme metaphrasers?",
+    "aave_query": "When was there some extreme metaphrasers?",
+    "source": "squad",
+    "conversion_method": "llm_synthetic"
+  },
+  {
+    "id": 44,
+    "squad_idx": 34959,
+    "sae_query": "What Dell product was a commercial failure?",
+    "aave_query": "What Dell product was a commercial failure?",
+    "source": "squad",
+    "conversion_method": "llm_synthetic"
+  },
+  {
+    "id": 45,
+    "squad_idx": 5762,
+    "sae_query": "After joining the European Economic Community in the 90's, what did Portugal begin building?",
+    "aave_query": "After Portugal joined the European Economic Community in the 90's, what did it begin building?",
+    "source": "squad",
+    "conversion_method": "llm_synthetic"
+  },
+  {
+    "id": 46,
+    "squad_idx": 61261,
+    "sae_query": "What did the British form in preparation to leaving India?",
+    "aave_query": "What did the British form to get ready to leave India?",
+    "source": "squad",
+    "conversion_method": "llm_synthetic"
+  },
+  {
+    "id": 47,
+    "squad_idx": 71474,
+    "sae_query": "Who starred in 'Empire of the Sun'?",
+    "aave_query": "Who starred in Empire of the Sun?",
+    "source": "squad",
+    "conversion_method": "llm_synthetic"
+  },
+  {
+    "id": 48,
+    "squad_idx": 16519,
+    "sae_query": "What occupation is stereotypical held by soft adult contemporary listeners?",
+    "aave_query": "What occupation people stereotypically hold who listen to soft adult contemporary?",
+    "source": "squad",
+    "conversion_method": "llm_synthetic"
+  },
+  {
+    "id": 49,
+    "squad_idx": 50470,
+    "sae_query": "What were revised between 1951 and 1955?",
+    "aave_query": "What got revised between 1951 and 1955?",
+    "source": "squad",
+    "conversion_method": "llm_synthetic"
+  },
+  {
+    "id": 50,
+    "squad_idx": 10441,
+    "sae_query": "Pope Sixtus V limited the number of cardinals to?",
+    "aave_query": "Pope Sixtus V limit the number of cardinals to?",
+    "source": "squad",
+    "conversion_method": "llm_synthetic"
+  },
+  {
+    "id": 51,
+    "squad_idx": 73563,
+    "sae_query": "How did Liang Ji die?",
+    "aave_query": "How did Liang Ji die?",
+    "source": "squad",
+    "conversion_method": "llm_synthetic"
+  },
+  {
+    "id": 52,
+    "squad_idx": 38764,
+    "sae_query": "What museum and ilbrary was the center of Hellenistic culture conservation?",
+    "aave_query": "What museum and library was the center of Hellenistic culture conservation?",
+    "source": "squad",
+    "conversion_method": "llm_synthetic"
+  },
+  {
+    "id": 53,
+    "squad_idx": 83719,
+    "sae_query": "What percentage of scientists from 1450–1650 in the Dictionary of Scientific Biography were taught in a university?",
+    "aave_query": "What percentage of scientists from 1450–1650 in the Dictionary of Scientific Biography was taught in a university?",
+    "source": "squad",
+    "conversion_method": "llm_synthetic"
+  },
+  {
+    "id": 54,
+    "squad_idx": 82373,
+    "sae_query": "What do female birds have that allow sperm from males to remain viable long after copulation?",
+    "aave_query": "What do female birds have that let sperm from males stay viable long after copulation?",
+    "source": "squad",
+    "conversion_method": "llm_synthetic"
+  },
+  {
+    "id": 55,
+    "squad_idx": 48083,
+    "sae_query": "What can average a color across similar areas to reduce space?",
+    "aave_query": "What can average a color across similar areas to cut down on space?",
+    "source": "squad",
+    "conversion_method": "llm_synthetic"
+  },
+  {
+    "id": 56,
+    "squad_idx": 76925,
+    "sae_query": "What did the second phase of the Armenian Genocide involve?",
+    "aave_query": "What did the second phase of the Armenian Genocide involve?",
+    "source": "squad",
+    "conversion_method": "llm_synthetic"
+  },
+  {
+    "id": 57,
+    "squad_idx": 25431,
+    "sae_query": "Who was the first to produce hardware for speech?",
+    "aave_query": "Who was the first to produce hardware for speech?",
+    "source": "squad",
+    "conversion_method": "llm_synthetic"
+  },
+  {
+    "id": 58,
+    "squad_idx": 9224,
+    "sae_query": "What was economist Roubini called by the New York Times for predicting a collapse of the housing market?",
+    "aave_query": "What was economist Roubini called by the New York Times for predicting a collapse the housing market?",
+    "source": "squad",
+    "conversion_method": "llm_synthetic"
+  },
+  {
+    "id": 59,
+    "squad_idx": 6079,
+    "sae_query": "What famous British artist worked with Kanye on multiple singles?",
+    "aave_query": "What famous British artist worked with Kanye on multiple singles?",
+    "source": "squad",
+    "conversion_method": "llm_synthetic"
+  },
+  {
+    "id": 60,
+    "squad_idx": 30118,
+    "sae_query": "What types of species disappear when a new disease is introduced?",
+    "aave_query": "What kind of species disappear when a new disease get introduced?",
+    "source": "squad",
+    "conversion_method": "llm_synthetic"
+  },
+  {
+    "id": 61,
+    "squad_idx": 38252,
+    "sae_query": "Israel developed what?",
+    "aave_query": "Israel developed what?",
+    "source": "squad",
+    "conversion_method": "llm_synthetic"
+  },
+  {
+    "id": 62,
+    "squad_idx": 10571,
+    "sae_query": "Which language bears a resemblance to the diversity of eastern Iranian languages?",
+    "aave_query": "Which language look like the diversity of eastern Iranian languages?",
+    "source": "squad",
+    "conversion_method": "llm_synthetic"
+  },
+  {
+    "id": 63,
+    "squad_idx": 30761,
+    "sae_query": "In what year was the Convention on the Rights of the Child created?",
+    "aave_query": "What year the Convention on the Rights of the Child created?",
+    "source": "squad",
+    "conversion_method": "llm_synthetic"
+  },
+  {
+    "id": 64,
+    "squad_idx": 13379,
+    "sae_query": "Who was the first President of the RSFSR?",
+    "aave_query": "Who was the first President of the RSFSR?",
+    "source": "squad",
+    "conversion_method": "llm_synthetic"
+  },
+  {
+    "id": 65,
+    "squad_idx": 50678,
+    "sae_query": "Which prime minister was the King constitutionally bound to support?",
+    "aave_query": "Which prime minister the King constitutionally bound to support?",
+    "source": "squad",
+    "conversion_method": "llm_synthetic"
+  },
+  {
+    "id": 66,
+    "squad_idx": 36738,
+    "sae_query": "What is the name of the process in which possible drugs are discovered?",
+    "aave_query": "What the name of the process where possible drugs be discovered?",
+    "source": "squad",
+    "conversion_method": "llm_synthetic"
+  },
+  {
+    "id": 67,
+    "squad_idx": 60470,
+    "sae_query": "What has been found along the current Route des Romains?",
+    "aave_query": "What been found along the current Route des Romains?",
+    "source": "squad",
+    "conversion_method": "llm_synthetic"
+  },
+  {
+    "id": 68,
+    "squad_idx": 84648,
+    "sae_query": "What do some branches share in common?",
+    "aave_query": "What do some branches share in common?",
+    "source": "squad",
+    "conversion_method": "llm_synthetic"
+  },
+  {
+    "id": 69,
+    "squad_idx": 48503,
+    "sae_query": "What sort of battle do the adults have at midnight?",
+    "aave_query": "What do kinda battle the adults have at midnight?",
+    "source": "squad",
+    "conversion_method": "llm_synthetic"
+  },
+  {
+    "id": 70,
+    "squad_idx": 21524,
+    "sae_query": "How does traffic travel on the last block of the 20th, 21st, and 22nd Streets?",
+    "aave_query": "How does traffic travel on the last block of the 20th, 21st, and 22nd Streets?",
+    "source": "squad",
+    "conversion_method": "llm_synthetic"
+  },
+  {
+    "id": 71,
+    "squad_idx": 49364,
+    "sae_query": "What annual event is held on the 1st saturday of april?",
+    "aave_query": "What annual event they hold on the 1st Saturday of April?",
+    "source": "squad",
+    "conversion_method": "llm_synthetic"
+  },
+  {
+    "id": 72,
+    "squad_idx": 47231,
+    "sae_query": "Some federal and state statutes remain on the books for how long after they are ruled unconstitutional?",
+    "aave_query": "Some federal and state statutes stay on the books for how long after they be ruled unconstitutional?",
+    "source": "squad",
+    "conversion_method": "llm_synthetic"
+  },
+  {
+    "id": 73,
+    "squad_idx": 27700,
+    "sae_query": "When did the Mint being producing proof sets?",
+    "aave_query": "When did the Mint start producing proof sets?",
+    "source": "squad",
+    "conversion_method": "llm_synthetic"
+  },
+  {
+    "id": 74,
+    "squad_idx": 35281,
+    "sae_query": "What year did Nintendo officially discontinue the NES?",
+    "aave_query": "What did year Nintendo officially discontinue the NES?",
+    "source": "squad",
+    "conversion_method": "llm_synthetic"
+  },
+  {
+    "id": 75,
+    "squad_idx": 86277,
+    "sae_query": "What can be credited for the changes in the definition of humanism?",
+    "aave_query": "What can be credited for the changes in the definition of humanism?",
+    "source": "squad",
+    "conversion_method": "llm_synthetic"
+  },
+  {
+    "id": 76,
+    "squad_idx": 9466,
+    "sae_query": "What war occurred in the 18th century?",
+    "aave_query": "What war happen in the 18th century?",
+    "source": "squad",
+    "conversion_method": "llm_synthetic"
+  },
+  {
+    "id": 77,
+    "squad_idx": 81134,
+    "sae_query": "What is the name of the superior court of Tuvalu?",
+    "aave_query": "What the name of the superior court of Tuvalu?",
+    "source": "squad",
+    "conversion_method": "llm_synthetic"
+  },
+  {
+    "id": 78,
+    "squad_idx": 84553,
+    "sae_query": "Whose words were an inspiration for Jan Hus?",
+    "aave_query": "Who’s words was an inspiration for Jan Hus?",
+    "source": "squad",
+    "conversion_method": "llm_synthetic"
+  },
+  {
+    "id": 79,
+    "squad_idx": 22645,
+    "sae_query": "Is earlywood usually lighter or darker than the part of the growth ring that forms later in the season?",
+    "aave_query": "Is earlywood usually lighter or darker than the part of the growth ring that form later in the season?",
+    "source": "squad",
+    "conversion_method": "llm_synthetic"
+  },
+  {
+    "id": 80,
+    "squad_idx": 71190,
+    "sae_query": "Who tried to invade Cyprus in 1964?",
+    "aave_query": "Who tried to invade Cyprus in 1964?",
+    "source": "squad",
+    "conversion_method": "llm_synthetic"
+  },
+  {
+    "id": 81,
+    "squad_idx": 32352,
+    "sae_query": "How long of a running time did the Number 199 fuse have?",
+    "aave_query": "How did long the Number 199 fuse run?",
+    "source": "squad",
+    "conversion_method": "llm_synthetic"
+  },
+  {
+    "id": 82,
+    "squad_idx": 21622,
+    "sae_query": "Who funded the 132nd Street Community Garden's water distribution system?",
+    "aave_query": "Who funded the 132nd Street Community Garden's water distribution system?",
+    "source": "squad",
+    "conversion_method": "llm_synthetic"
+  },
+  {
+    "id": 83,
+    "squad_idx": 61634,
+    "sae_query": "Who was the only Arab leader not to attend Nasser's funeral?",
+    "aave_query": "Who was the only Arab leader that ain’t attend Nasser's funeral?",
+    "source": "squad",
+    "conversion_method": "llm_synthetic"
+  },
+  {
+    "id": 84,
+    "squad_idx": 50590,
+    "sae_query": "Who needed to approve the Congregation for the Causes of Saints conclusion that Paul VI performed a miracle?",
+    "aave_query": "Who needed to approve the Congregation for the Causes of Saints conclusion that Paul VI performed a miracle?",
+    "source": "squad",
+    "conversion_method": "llm_synthetic"
+  },
+  {
+    "id": 85,
+    "squad_idx": 35673,
+    "sae_query": "How many years after the First Council of Nicaea did Athanasius become archbishop?",
+    "aave_query": "How did many years after the First Council of Nicaea Athanasius become archbishop?",
+    "source": "squad",
+    "conversion_method": "llm_synthetic"
+  },
+  {
+    "id": 86,
+    "squad_idx": 85220,
+    "sae_query": "What options do minority party have in amendment phase?",
+    "aave_query": "What do options the minority party have in amendment phase?",
+    "source": "squad",
+    "conversion_method": "llm_synthetic"
+  },
+  {
+    "id": 87,
+    "squad_idx": 74212,
+    "sae_query": "What types of decisions would great powers reach?",
+    "aave_query": "What types of decisions great powers would reach?",
+    "source": "squad",
+    "conversion_method": "llm_synthetic"
+  },
+  {
+    "id": 88,
+    "squad_idx": 29027,
+    "sae_query": "Who was charged with fostering air commerce?",
+    "aave_query": "Who was charged wit fostering air commerce?",
+    "source": "squad",
+    "conversion_method": "llm_synthetic"
+  },
+  {
+    "id": 89,
+    "squad_idx": 42989,
+    "sae_query": "How might a wrestler attempt to break a submission hold?",
+    "aave_query": "How a wrestler might try to break a submission hold?",
+    "source": "squad",
+    "conversion_method": "llm_synthetic"
+  },
+  {
+    "id": 90,
+    "squad_idx": 7423,
+    "sae_query": "Scotty's first album reached the top Billboard spot, the first time for an Idol winner since when?",
+    "aave_query": "Scotty’s first album reached the top Billboard spot, first time for an Idol winner since when?",
+    "source": "squad",
+    "conversion_method": "llm_synthetic"
+  },
+  {
+    "id": 91,
+    "squad_idx": 30269,
+    "sae_query": "What type of extensions do these other character encodings have?",
+    "aave_query": "What do type of extensions these other character encodings got?",
+    "source": "squad",
+    "conversion_method": "llm_synthetic"
+  },
+  {
+    "id": 92,
+    "squad_idx": 4256,
+    "sae_query": "Who was the previous overseer of the London interbank offered rate?",
+    "aave_query": "Who was the last overseer of the London interbank offered rate?",
+    "source": "squad",
+    "conversion_method": "llm_synthetic"
+  },
+  {
+    "id": 93,
+    "squad_idx": 41791,
+    "sae_query": "How many tanks were in the North Korean tank corps?",
+    "aave_query": "How many tanks was in the North Korean tank corps?",
+    "source": "squad",
+    "conversion_method": "llm_synthetic"
+  },
+  {
+    "id": 94,
+    "squad_idx": 53557,
+    "sae_query": "Who refused a German-Soviet peace plan?",
+    "aave_query": "Who refused the German-Soviet peace plan?",
+    "source": "squad",
+    "conversion_method": "llm_synthetic"
+  },
+  {
+    "id": 95,
+    "squad_idx": 35381,
+    "sae_query": "Which company was illegally demonstrating a Nintendo game?",
+    "aave_query": "Which company was illegally demonstrating a Nintendo game?",
+    "source": "squad",
+    "conversion_method": "llm_synthetic"
+  },
+  {
+    "id": 96,
+    "squad_idx": 8780,
+    "sae_query": "After moving away from mathematics, what subjects did Whitehead explore?",
+    "aave_query": "After he moved away from mathematics, what subjects Whitehead explore?",
+    "source": "squad",
+    "conversion_method": "llm_synthetic"
+  },
+  {
+    "id": 97,
+    "squad_idx": 27894,
+    "sae_query": "What was Imperial's total expenditure for the financial year that ended on the 31 July 2013?",
+    "aave_query": "What was Imperial’s total expenditure for the financial year ended 31 July 2013?",
+    "source": "squad",
+    "conversion_method": "llm_synthetic"
+  },
+  {
+    "id": 98,
+    "squad_idx": 75587,
+    "sae_query": "What type of cell travels down the pollen tube while it's growing?",
+    "aave_query": "What type of cell travel down the pollen tube while it growing?",
+    "source": "squad",
+    "conversion_method": "llm_synthetic"
+  },
+  {
+    "id": 99,
+    "squad_idx": 41688,
+    "sae_query": "Who was not concerned about the idea of Chinese troops moving south into Korea?",
+    "aave_query": "Who wasn’t concerned ’bout the idea of Chinese troops moving south into Korea?",
+    "source": "squad",
+    "conversion_method": "llm_synthetic"
+  },
+  {
+    "id": 100,
+    "squad_idx": 28111,
+    "sae_query": "What occured on the 15th of December 1941?",
+    "aave_query": "What happened on the 15th of December 1941?",
+    "source": "squad",
+    "conversion_method": "llm_synthetic"
+  },
+  {
+    "id": 101,
+    "squad_idx": 87277,
+    "sae_query": "How much of the nation's endangered species is it estimated benefits from the protection afford by the Duck Stamp funds?",
+    "aave_query": "How much of the nation’s endangered species they estimate benefits from the protection the Duck Stamp funds afford?",
+    "source": "squad",
+    "conversion_method": "llm_synthetic"
+  },
+  {
+    "id": 102,
+    "squad_idx": 66542,
+    "sae_query": "What two methods can be used when using Load Testing?",
+    "aave_query": "What two methods can be used when you use Load Testing?",
+    "source": "squad",
+    "conversion_method": "llm_synthetic"
+  },
+  {
+    "id": 103,
+    "squad_idx": 52722,
+    "sae_query": "When did Bermuda have a large amount of people immigrating to it?",
+    "aave_query": "When did Bermuda have a whole lot of people immigrating to it?",
+    "source": "squad",
+    "conversion_method": "llm_synthetic"
+  },
+  {
+    "id": 104,
+    "squad_idx": 85593,
+    "sae_query": "What does DARPA stand for?",
+    "aave_query": "What does be DARPA standin’ for?",
+    "source": "squad",
+    "conversion_method": "llm_synthetic"
+  },
+  {
+    "id": 105,
+    "squad_idx": 61186,
+    "sae_query": "What groups was Mysore fighting in the later half of the 18th century?",
+    "aave_query": "What groups Mysore was fighting in the second half of the 18th century?",
+    "source": "squad",
+    "conversion_method": "llm_synthetic"
+  },
+  {
+    "id": 106,
+    "squad_idx": 18901,
+    "sae_query": "What could you call someone who lives in Southampton?",
+    "aave_query": "What you could call someone who live in Southampton?",
+    "source": "squad",
+    "conversion_method": "llm_synthetic"
+  },
+  {
+    "id": 107,
+    "squad_idx": 35006,
+    "sae_query": "What was the rate of decline that Dell experienced in PC shipments?",
+    "aave_query": "What the rate of decline Dell experienced in PC shipments?",
+    "source": "squad",
+    "conversion_method": "llm_synthetic"
+  },
+  {
+    "id": 108,
+    "squad_idx": 18472,
+    "sae_query": "To whom is the \"standard complement\" attributed to?",
+    "aave_query": "Who the \"standard complement\" attributed to?",
+    "source": "squad",
+    "conversion_method": "llm_synthetic"
+  },
+  {
+    "id": 109,
+    "squad_idx": 32592,
+    "sae_query": "In what period did Vyakarana begin?",
+    "aave_query": "When did Vyakarana begin?",
+    "source": "squad",
+    "conversion_method": "llm_synthetic"
+  },
+  {
+    "id": 110,
+    "squad_idx": 74812,
+    "sae_query": "What did the Prussian and German victory mark?",
+    "aave_query": "What did the Prussian and German victory mark?",
+    "source": "squad",
+    "conversion_method": "llm_synthetic"
+  },
+  {
+    "id": 111,
+    "squad_idx": 71836,
+    "sae_query": "What Israeli company uses motion sensors to display information on a screen embedded in the wall of the cabs?",
+    "aave_query": "What Israeli company use motion sensors to display information on a screen embedded in the wall of the cabs?",
+    "source": "squad",
+    "conversion_method": "llm_synthetic"
+  },
+  {
+    "id": 112,
+    "squad_idx": 34726,
+    "sae_query": "Which chromosome is responsible for produlcing male differentiation on defect female development?",
+    "aave_query": "Which chromosome responsible for producing male differentiation on defect female development?",
+    "source": "squad",
+    "conversion_method": "llm_synthetic"
+  },
+  {
+    "id": 113,
+    "squad_idx": 77889,
+    "sae_query": "What did Rome refuse to do in their relations with Pyrrhus?",
+    "aave_query": "What did Rome refuse to do in they relations with Pyrrhus?",
+    "source": "squad",
+    "conversion_method": "llm_synthetic"
+  },
+  {
+    "id": 114,
+    "squad_idx": 57160,
+    "sae_query": "How many justices make up the Philippines Supreme Court?",
+    "aave_query": "How many justices make up the Philippines Supreme Court?",
+    "source": "squad",
+    "conversion_method": "llm_synthetic"
+  },
+  {
+    "id": 115,
+    "squad_idx": 77749,
+    "sae_query": "In the 1997-98 season how many new teams had to go back to the Football League?",
+    "aave_query": "In the 1997-98 season how many new teams had to go back to the Football League?",
+    "source": "squad",
+    "conversion_method": "llm_synthetic"
+  },
+  {
+    "id": 116,
+    "squad_idx": 53321,
+    "sae_query": "What was the consequence of the theory of incompleteness?",
+    "aave_query": "What was the consequence of the theory of incompleteness?",
+    "source": "squad",
+    "conversion_method": "llm_synthetic"
+  },
+  {
+    "id": 117,
+    "squad_idx": 48130,
+    "sae_query": "Who would the Sun consider supporting from the Labour Party in 1974?",
+    "aave_query": "Who would the Sun consider supportin’ from the Labour Party in 1974?",
+    "source": "squad",
+    "conversion_method": "llm_synthetic"
+  },
+  {
+    "id": 118,
+    "squad_idx": 28988,
+    "sae_query": "What class carrier is the Sao Paulo?",
+    "aave_query": "What class carrier Sao Paulo be?",
+    "source": "squad",
+    "conversion_method": "llm_synthetic"
+  },
+  {
+    "id": 119,
+    "squad_idx": 18301,
+    "sae_query": "What socioeconomic class used the Florentine Tuscan language in Dante's time?",
+    "aave_query": "What socioeconomic class used the Florentine Tuscan language in Dante's time?",
+    "source": "squad",
+    "conversion_method": "llm_synthetic"
+  },
+  {
+    "id": 120,
+    "squad_idx": 67904,
+    "sae_query": "Leibnitz held that there is a reason that is sufficient to explain what and why it is the way it is and not otherwise for every what?",
+    "aave_query": "Leibnitz held that there a reason that’s sufficient to explain what and why it’s the way it is and not otherwise for every what?",
+    "source": "squad",
+    "conversion_method": "llm_synthetic"
+  },
+  {
+    "id": 121,
+    "squad_idx": 65776,
+    "sae_query": "What origin was Leto?",
+    "aave_query": "What origin Leto been?",
+    "source": "squad",
+    "conversion_method": "llm_synthetic"
+  },
+  {
+    "id": 122,
+    "squad_idx": 12049,
+    "sae_query": "René Descartes lived from what year to what year?",
+    "aave_query": "René Descartes lived from what year to what year?",
+    "source": "squad",
+    "conversion_method": "llm_synthetic"
+  },
+  {
+    "id": 123,
+    "squad_idx": 6250,
+    "sae_query": "When did Alexis Phifer and Kanye West get engaged?",
+    "aave_query": "When did Alexis Phifer and Kanye West get engaged?",
+    "source": "squad",
+    "conversion_method": "llm_synthetic"
+  },
+  {
+    "id": 124,
+    "squad_idx": 14516,
+    "sae_query": "If there is a cluster such as st and it belongs to different morphemes, the stop is what?",
+    "aave_query": "If there a cluster like st and it belong to different morphemes, the stop what?",
+    "source": "squad",
+    "conversion_method": "llm_synthetic"
+  },
+  {
+    "id": 125,
+    "squad_idx": 20226,
+    "sae_query": "Did it matter how much money a person had to polish nobles?",
+    "aave_query": "Did it matter how much money a person had to polish nobles?",
+    "source": "squad",
+    "conversion_method": "llm_synthetic"
+  },
+  {
+    "id": 126,
+    "squad_idx": 83562,
+    "sae_query": "Where is the the Umayyad Mosque located?",
+    "aave_query": "Where the Umayyad Mosque located at?",
+    "source": "squad",
+    "conversion_method": "llm_synthetic"
+  },
+  {
+    "id": 127,
+    "squad_idx": 21172,
+    "sae_query": "Since when has the number of base pairs of DNA in the human genome been known?",
+    "aave_query": "Since when the number of base pairs of DNA in the human genome been known?",
+    "source": "squad",
+    "conversion_method": "llm_synthetic"
+  },
+  {
+    "id": 128,
+    "squad_idx": 56331,
+    "sae_query": "What did On Origin of Species avoid in order to raise its chance of being taken seriously?",
+    "aave_query": "What did On Origin of Species avoid to raise its chance of being taken seriously?",
+    "source": "squad",
+    "conversion_method": "llm_synthetic"
+  },
+  {
+    "id": 129,
+    "squad_idx": 79452,
+    "sae_query": "How many hostages were taken in the US Embassy seizure?",
+    "aave_query": "How many hostages was taken in the US Embassy seizure?",
+    "source": "squad",
+    "conversion_method": "llm_synthetic"
+  },
+  {
+    "id": 130,
+    "squad_idx": 8428,
+    "sae_query": "When did the torch visit Malaysia?",
+    "aave_query": "When did the torch visit Malaysia?",
+    "source": "squad",
+    "conversion_method": "llm_synthetic"
+  },
+  {
+    "id": 131,
+    "squad_idx": 51289,
+    "sae_query": "After the president declared a state of emergency, what type of curfew was placed on the country?",
+    "aave_query": "After the president declared a state of emergency, what kinda curfew they put on the country?",
+    "source": "squad",
+    "conversion_method": "llm_synthetic"
+  },
+  {
+    "id": 132,
+    "squad_idx": 50874,
+    "sae_query": "What do newer computer drives use instead of stepper motors?",
+    "aave_query": "What do newer computer drives use 'stead of stepper motors?",
+    "source": "squad",
+    "conversion_method": "llm_synthetic"
+  },
+  {
+    "id": 133,
+    "squad_idx": 79384,
+    "sae_query": "Which Arab Caliphate defeated Iran first?",
+    "aave_query": "Which Arab Caliphate was the first to defeat Iran?",
+    "source": "squad",
+    "conversion_method": "llm_synthetic"
+  },
+  {
+    "id": 134,
+    "squad_idx": 62398,
+    "sae_query": "What adjective did CNET use to describe the PS3 Super Slim's design?",
+    "aave_query": "What did adjective CNET use to describe the PS3 Super Slim's design?",
+    "source": "squad",
+    "conversion_method": "llm_synthetic"
+  },
+  {
+    "id": 135,
+    "squad_idx": 70509,
+    "sae_query": "Whose division was Feynman assigned to at the Manhattan Project?",
+    "aave_query": "Whose division Feynman assigned to at the Manhattan Project?",
+    "source": "squad",
+    "conversion_method": "llm_synthetic"
+  },
+  {
+    "id": 136,
+    "squad_idx": 33223,
+    "sae_query": "What was the maximum effective range of the Chassepot rifle?",
+    "aave_query": "What the maximum effective range of the Chassepot rifle?",
+    "source": "squad",
+    "conversion_method": "llm_synthetic"
+  },
+  {
+    "id": 137,
+    "squad_idx": 73718,
+    "sae_query": "What methodology allowed the production of new agricultural tools?",
+    "aave_query": "What methodology allowed the production of new agricultural tools?",
+    "source": "squad",
+    "conversion_method": "llm_synthetic"
+  },
+  {
+    "id": 138,
+    "squad_idx": 1532,
+    "sae_query": "What three composers did Chopin take inspiration from?",
+    "aave_query": "What did three composers Chopin take inspiration from?",
+    "source": "squad",
+    "conversion_method": "llm_synthetic"
+  },
+  {
+    "id": 139,
+    "squad_idx": 15167,
+    "sae_query": "How long has the limited test system been operating?",
+    "aave_query": "How long the limited test system been operating?",
+    "source": "squad",
+    "conversion_method": "llm_synthetic"
+  },
+  {
+    "id": 140,
+    "squad_idx": 71571,
+    "sae_query": "What was the budget for 'Robopocalypse'?",
+    "aave_query": "What the budget for 'Robopocalypse'?",
+    "source": "squad",
+    "conversion_method": "llm_synthetic"
+  },
+  {
+    "id": 141,
+    "squad_idx": 35261,
+    "sae_query": "Which controller had a non-adjustable Turbo feature?",
+    "aave_query": "Which controller had a non-adjustable Turbo feature?",
+    "source": "squad",
+    "conversion_method": "llm_synthetic"
+  },
+  {
+    "id": 142,
+    "squad_idx": 85346,
+    "sae_query": "What is a kabob?",
+    "aave_query": "What a kabob?",
+    "source": "squad",
+    "conversion_method": "llm_synthetic"
+  },
+  {
+    "id": 143,
+    "squad_idx": 45231,
+    "sae_query": "Which Queen tour was the first to feature Spike Edney?",
+    "aave_query": "Which Queen tour first featured Spike Edney?",
+    "source": "squad",
+    "conversion_method": "llm_synthetic"
+  },
+  {
+    "id": 144,
+    "squad_idx": 14770,
+    "sae_query": "What browser was automatically included with OS X?",
+    "aave_query": "What browser was automatically included with OS X?",
+    "source": "squad",
+    "conversion_method": "llm_synthetic"
+  },
+  {
+    "id": 145,
+    "squad_idx": 38806,
+    "sae_query": "How would people ward off misfortune in Hellenistic times?",
+    "aave_query": "How would people be wardin’ off misfortune in Hellenistic times?",
+    "source": "squad",
+    "conversion_method": "llm_synthetic"
+  },
+  {
+    "id": 146,
+    "squad_idx": 58005,
+    "sae_query": "When was Nazi Germany in a one-party system?",
+    "aave_query": "When was Nazi Germany in a one-party system?",
+    "source": "squad",
+    "conversion_method": "llm_synthetic"
+  },
+  {
+    "id": 147,
+    "squad_idx": 20932,
+    "sae_query": "What is one invisible genetic trait?",
+    "aave_query": "What one invisible genetic trait be?",
+    "source": "squad",
+    "conversion_method": "llm_synthetic"
+  },
+  {
+    "id": 148,
+    "squad_idx": 60511,
+    "sae_query": "Where is Fort Podbielski located?",
+    "aave_query": "Where Fort Podbielski at?",
+    "source": "squad",
+    "conversion_method": "llm_synthetic"
+  },
+  {
+    "id": 149,
+    "squad_idx": 432,
+    "sae_query": "Who collaborated with Beyoncé on the single, Deja Vu?",
+    "aave_query": "Who collaborated with Beyoncé on the single, Deja Vu?",
+    "source": "squad",
+    "conversion_method": "llm_synthetic"
+  },
+  {
+    "id": 150,
+    "squad_idx": 34810,
+    "sae_query": "What have somes studies show when researching how someone uses \"gaydar\"?",
+    "aave_query": "What have some studies shown when researching how somebody use \"gaydar\"?",
+    "source": "squad",
+    "conversion_method": "llm_synthetic"
+  },
+  {
+    "id": 151,
+    "squad_idx": 66720,
+    "sae_query": "How many hydroelectricity plants are larger than 10 GW?",
+    "aave_query": "How many hydroelectricity plants bigger than 10 GW?",
+    "source": "squad",
+    "conversion_method": "llm_synthetic"
+  },
+  {
+    "id": 152,
+    "squad_idx": 23630,
+    "sae_query": "What was the regnal name of Henry Tudor?",
+    "aave_query": "What was Henry Tudor’s regnal name?",
+    "source": "squad",
+    "conversion_method": "llm_synthetic"
+  },
+  {
+    "id": 153,
+    "squad_idx": 67661,
+    "sae_query": "Who served on the debt controlling administration of the Ottoman Empire?",
+    "aave_query": "Who served on the debt controlling administration of the Ottoman Empire?",
+    "source": "squad",
+    "conversion_method": "llm_synthetic"
+  },
+  {
+    "id": 154,
+    "squad_idx": 14089,
+    "sae_query": "Comics were quoted as a sabotage of art and what?",
+    "aave_query": "Comics was quoted as a sabotage of art and what?",
+    "source": "squad",
+    "conversion_method": "llm_synthetic"
+  },
+  {
+    "id": 155,
+    "squad_idx": 83280,
+    "sae_query": "What elements mix for Egyptian music?",
+    "aave_query": "What elements mix for Egyptian music?",
+    "source": "squad",
+    "conversion_method": "llm_synthetic"
+  },
+  {
+    "id": 156,
+    "squad_idx": 39536,
+    "sae_query": "What City College initiative did Northwestern announce signing on with in 2016?",
+    "aave_query": "What did City College initiative Northwestern announce signing on with in 2016?",
+    "source": "squad",
+    "conversion_method": "llm_synthetic"
+  },
+  {
+    "id": 157,
+    "squad_idx": 85081,
+    "sae_query": "What airlines was award the \"Best regional airline in Europe\" award by Skytrax?",
+    "aave_query": "What airlines was awarded the \"Best regional airline in Europe\" award by Skytrax?",
+    "source": "squad",
+    "conversion_method": "llm_synthetic"
+  },
+  {
+    "id": 158,
+    "squad_idx": 67659,
+    "sae_query": "In what year did the Ottoman Empire declare bankruptcy?",
+    "aave_query": "What year the Ottoman Empire declare bankruptcy?",
+    "source": "squad",
+    "conversion_method": "llm_synthetic"
+  },
+  {
+    "id": 159,
+    "squad_idx": 81111,
+    "sae_query": "What are the boreholes on Funafuti called?",
+    "aave_query": "What they call the boreholes on Funafuti?",
+    "source": "squad",
+    "conversion_method": "llm_synthetic"
+  },
+  {
+    "id": 160,
+    "squad_idx": 26305,
+    "sae_query": "In what year did England suffer their first defeat at home to a foreign team?",
+    "aave_query": "What year England suffer they first home loss to a foreign team?",
+    "source": "squad",
+    "conversion_method": "llm_synthetic"
+  },
+  {
+    "id": 161,
+    "squad_idx": 20225,
+    "sae_query": "What ethnic saying is this traditional from?",
+    "aave_query": "What ethnic group this traditional saying from?",
+    "source": "squad",
+    "conversion_method": "llm_synthetic"
+  },
+  {
+    "id": 162,
+    "squad_idx": 49861,
+    "sae_query": "Since when have Amalgams been used?",
+    "aave_query": "Since when Amalgams been used?",
+    "source": "squad",
+    "conversion_method": "llm_synthetic"
+  },
+  {
+    "id": 163,
+    "squad_idx": 21378,
+    "sae_query": "What type of language is Kriol?",
+    "aave_query": "What kinda language Kriol be?",
+    "source": "squad",
+    "conversion_method": "llm_synthetic"
+  },
+  {
+    "id": 164,
+    "squad_idx": 71889,
+    "sae_query": "Who discovered Neptune?",
+    "aave_query": "Who discovered Neptune?",
+    "source": "squad",
+    "conversion_method": "llm_synthetic"
+  },
+  {
+    "id": 165,
+    "squad_idx": 70684,
+    "sae_query": "When did Libya become an independent nation?",
+    "aave_query": "When did Libya get independent?",
+    "source": "squad",
+    "conversion_method": "llm_synthetic"
+  },
+  {
+    "id": 166,
+    "squad_idx": 75,
+    "sae_query": "How many teams participate in the Notre Dame Bookstore Basketball tournament?",
+    "aave_query": "How many teams be participatin in the Notre Dame Bookstore Basketball tournament?",
+    "source": "squad",
+    "conversion_method": "llm_synthetic"
+  },
+  {
+    "id": 167,
+    "squad_idx": 79786,
+    "sae_query": "What country is the home of the first football league?",
+    "aave_query": "What country the home of the first football league?",
+    "source": "squad",
+    "conversion_method": "llm_synthetic"
+  },
+  {
+    "id": 168,
+    "squad_idx": 42972,
+    "sae_query": "What might a partially conscious wrestler do?",
+    "aave_query": "What might a partially conscious wrestler do?",
+    "source": "squad",
+    "conversion_method": "llm_synthetic"
+  },
+  {
+    "id": 169,
+    "squad_idx": 65110,
+    "sae_query": "What may people who have lived in the same area for generations have in common?",
+    "aave_query": "What might folks who been living in the same area for generations have in common?",
+    "source": "squad",
+    "conversion_method": "llm_synthetic"
+  },
+  {
+    "id": 170,
+    "squad_idx": 2592,
+    "sae_query": "Who manufactures a pedometer accessory for the iPod?",
+    "aave_query": "Who manufactures a pedometer accessory for the iPod?",
+    "source": "squad",
+    "conversion_method": "llm_synthetic"
+  },
+  {
+    "id": 171,
+    "squad_idx": 14812,
+    "sae_query": "What is the capital and largest city in Massachusetts?",
+    "aave_query": "What the capital and biggest city in Massachusetts?",
+    "source": "squad",
+    "conversion_method": "llm_synthetic"
+  },
+  {
+    "id": 172,
+    "squad_idx": 48259,
+    "sae_query": "What did the Manchester police say about these claimed attacks?",
+    "aave_query": "What did the Manchester police say about these claimed attacks?",
+    "source": "squad",
+    "conversion_method": "llm_synthetic"
+  },
+  {
+    "id": 173,
+    "squad_idx": 40735,
+    "sae_query": "Which Queen tried and failed to raise the hemline of her dress after WWI?",
+    "aave_query": "Which Queen tried but couldn’t raise the hemline of her dress after WWI?",
+    "source": "squad",
+    "conversion_method": "llm_synthetic"
+  },
+  {
+    "id": 174,
+    "squad_idx": 31646,
+    "sae_query": "What are the origins of Melbourne's tram network?",
+    "aave_query": "What the origins of Melbourne's tram network?",
+    "source": "squad",
+    "conversion_method": "llm_synthetic"
+  },
+  {
+    "id": 175,
+    "squad_idx": 7693,
+    "sae_query": "In which season did Coca-Cola become a sponsor of American Idol?",
+    "aave_query": "What season Coca-Cola become a sponsor of American Idol in?",
+    "source": "squad",
+    "conversion_method": "llm_synthetic"
+  },
+  {
+    "id": 176,
+    "squad_idx": 31835,
+    "sae_query": "What did John use to increase his own territory and power?",
+    "aave_query": "What did John use to increase his own territory and power?",
+    "source": "squad",
+    "conversion_method": "llm_synthetic"
+  },
+  {
+    "id": 177,
+    "squad_idx": 75610,
+    "sae_query": "When did Hyderabad become important culturally in India?",
+    "aave_query": "When did Hyderabad get important culturally in India?",
+    "source": "squad",
+    "conversion_method": "llm_synthetic"
+  },
+  {
+    "id": 178,
+    "squad_idx": 10435,
+    "sae_query": "Who was the pope who headed the Ecumencial Council of Trent in that year?",
+    "aave_query": "Who was the pope that headed the Ecumenical Council of Trent that year?",
+    "source": "squad",
+    "conversion_method": "llm_synthetic"
+  },
+  {
+    "id": 179,
+    "squad_idx": 11358,
+    "sae_query": "What was Schwarzenegger's first film role?",
+    "aave_query": "What was Schwarzenegger first film role?",
+    "source": "squad",
+    "conversion_method": "llm_synthetic"
+  },
+  {
+    "id": 180,
+    "squad_idx": 64766,
+    "sae_query": "Insect's outer skeleton is known as what?",
+    "aave_query": "Insect outer skeleton known as what?",
+    "source": "squad",
+    "conversion_method": "llm_synthetic"
+  },
+  {
+    "id": 181,
+    "squad_idx": 9179,
+    "sae_query": "What did the volume \"Credit Correlation: Life After Copulas\" propose models to rectify?",
+    "aave_query": "What did the volume \"Credit Correlation: Life After Copulas\" propose models to fix?",
+    "source": "squad",
+    "conversion_method": "llm_synthetic"
+  },
+  {
+    "id": 182,
+    "squad_idx": 71002,
+    "sae_query": "How much direct foreign investment existed in Libya circa 2004?",
+    "aave_query": "How much direct foreign investment was in Libya around 2004?",
+    "source": "squad",
+    "conversion_method": "llm_synthetic"
+  },
+  {
+    "id": 183,
+    "squad_idx": 16641,
+    "sae_query": "Who first gifted salmon to the abbey?",
+    "aave_query": "Who first gave salmon to the abbey?",
+    "source": "squad",
+    "conversion_method": "llm_synthetic"
+  },
+  {
+    "id": 184,
+    "squad_idx": 16991,
+    "sae_query": "What type of industries are now dominant in Nanjing?",
+    "aave_query": "What type of industries be dominant in Nanjing now?",
+    "source": "squad",
+    "conversion_method": "llm_synthetic"
+  },
+  {
+    "id": 185,
+    "squad_idx": 63351,
+    "sae_query": "What is another name for Jewish mysticism?",
+    "aave_query": "What another name for Jewish mysticism?",
+    "source": "squad",
+    "conversion_method": "llm_synthetic"
+  },
+  {
+    "id": 186,
+    "squad_idx": 73267,
+    "sae_query": "What Recovery Plan duration the does Fish and Wildlife Service plan for in their policies?",
+    "aave_query": "What does Recovery Plan duration Fish and Wildlife Service plan for in they policies?",
+    "source": "squad",
+    "conversion_method": "llm_synthetic"
+  },
+  {
+    "id": 187,
+    "squad_idx": 21848,
+    "sae_query": "What do neuroanatomists study?",
+    "aave_query": "What do they study be neuroanatomists?",
+    "source": "squad",
+    "conversion_method": "llm_synthetic"
+  },
+  {
+    "id": 188,
+    "squad_idx": 35029,
+    "sae_query": "In what state was Gary Gilmore executed?",
+    "aave_query": "What state was Gary Gilmore executed in?",
+    "source": "squad",
+    "conversion_method": "llm_synthetic"
+  },
+  {
+    "id": 189,
+    "squad_idx": 70304,
+    "sae_query": "How did Austrian Marshall Daun reverse the situation at Prague?",
+    "aave_query": "How did Daun, the Austrian Marshall, reverse the situation at Prague?",
+    "source": "squad",
+    "conversion_method": "llm_synthetic"
+  },
+  {
+    "id": 190,
+    "squad_idx": 80800,
+    "sae_query": "How much sooner than the Genesis did the Street Fighter II game come out for SNES?",
+    "aave_query": "How much sooner than Genesis did the Street Fighter II game come out for SNES?",
+    "source": "squad",
+    "conversion_method": "llm_synthetic"
+  },
+  {
+    "id": 191,
+    "squad_idx": 56460,
+    "sae_query": "What group was started by ex-political prisoners?",
+    "aave_query": "What group started by ex-political prisoners?",
+    "source": "squad",
+    "conversion_method": "llm_synthetic"
+  },
+  {
+    "id": 192,
+    "squad_idx": 28001,
+    "sae_query": "Where do most injuries happen?",
+    "aave_query": "Where do most injuries happen at?",
+    "source": "squad",
+    "conversion_method": "llm_synthetic"
+  },
+  {
+    "id": 193,
+    "squad_idx": 71878,
+    "sae_query": "The Haunted Mansion at Disneyland in California and the one in Paris, France sharewhat attribute?",
+    "aave_query": "The Haunted Mansion at Disneyland in California and the one in Paris, France share what attribute?",
+    "source": "squad",
+    "conversion_method": "llm_synthetic"
+  },
+  {
+    "id": 194,
+    "squad_idx": 26599,
+    "sae_query": "What area is located at Post Oak Boulevard and Westheimer Road?",
+    "aave_query": "What area located at Post Oak Boulevard and Westheimer Road?",
+    "source": "squad",
+    "conversion_method": "llm_synthetic"
+  },
+  {
+    "id": 195,
+    "squad_idx": 41293,
+    "sae_query": "How did Caray become a well-known Chicago figure?",
+    "aave_query": "How did Caray become a well-known Chicago figure?",
+    "source": "squad",
+    "conversion_method": "llm_synthetic"
+  },
+  {
+    "id": 196,
+    "squad_idx": 53267,
+    "sae_query": "What was Von Neumann's mother's name?",
+    "aave_query": "What Von Neumann’s mother name?",
+    "source": "squad",
+    "conversion_method": "llm_synthetic"
+  },
+  {
+    "id": 197,
+    "squad_idx": 86529,
+    "sae_query": "What are gendarmerie?",
+    "aave_query": "What gendarmerie be?",
+    "source": "squad",
+    "conversion_method": "llm_synthetic"
+  },
+  {
+    "id": 198,
+    "squad_idx": 49796,
+    "sae_query": "Mahbub ul Haq and Amartya Sen pioneered what approach?",
+    "aave_query": "Mahbub ul Haq and Amartya Sen pioneered what approach?",
+    "source": "squad",
+    "conversion_method": "llm_synthetic"
+  },
+  {
+    "id": 199,
+    "squad_idx": 58444,
+    "sae_query": "What other term is given to the director of studies?",
+    "aave_query": "What other term they give to the director of studies?",
+    "source": "squad",
+    "conversion_method": "llm_synthetic"
+  }
+]
