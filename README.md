@@ -74,6 +74,8 @@ This conclusion is supported by three key findings:
 2.  **No Rank Skew:** The median rank of the correct document was 1.00 for both dialects across both systems, and Wilcoxon tests showed no significant difference in rank distributions.
 3.  **Identical Hybrid Ceiling:** The maximum achievable recall, by combining both retrievers, was 99.0% for both SAE and AAVE, with a McNemar's test showing perfect performance agreement.
 
+> **For a more detailed discussion** of these findings, including an analysis of the study's limitations and recommendations for future work, please see the [**Final Conclusions section in the evaluation notebook**](https://github.com/EsmaeilNarimissa/Dialectal-Retrieval-Bias/blob/main/rag_bias_poc_2.ipynb#29-final-conclusions).
+
 ### Limitations
 
 The primary limitation of this study is its reliance on **synthetically generated AAVE**. The paraphrasing LLM may not fully capture the lexical and syntactic richness of naturally occurring AAVE. The null result suggests that modern retrieval systems are robust to these specific, structured transformations, but this finding may not generalize to all forms of dialectal variation.
