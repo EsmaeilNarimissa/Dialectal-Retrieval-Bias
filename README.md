@@ -37,18 +37,32 @@ The evaluation pipeline is designed to rigorously test for performance dispariti
 
 ### How to Run (in Google Colab)
 
+This repository includes the pre-generated dataset, allowing you to either run the evaluation directly or re-generate the data from scratch.
+
+#### Option 1: Reproduce the Analysis (Recommended)
+
+This is the fastest way to verify the results.
+
 1.  **Set Up API Key:**
-    -   In both Colab notebooks, use the **Secrets** tab (key icon on the left-hand sidebar) to add your OpenAI API key. The secret should be named `OPENAI_API_KEY`.
-2.  **Execute Phase 1: Generate the Dataset**
-    -   Open `aave_dataset_generation.ipynb`.
-    -   Run all the cells. The necessary Python packages will be installed automatically by the first code cell.
-    -   After execution, a timestamped `.json` file (e.g., `aave_poc_dataset_20250928-123456.json`) will be generated and saved to your Colab session storage.
-3.  **Execute Phase 2: Run the Bias Evaluation**
+    -   In the `rag_bias_poc-2.ipynb` notebook, use the **Secrets** tab (key icon on the left) to add your OpenAI API key. The secret must be named `OPENAI_API_KEY`.
+2.  **Run the Evaluation:**
+    -   Open `rag_bias_poc-2.ipynb`. The notebook is already configured to use the dataset located in the `data/` directory.
+    -   Run all the cells to execute the full retrieval analysis and see the results.
+
+#### Option 2: Re-generate the Dataset (Optional)
+
+Follow these steps if you want to run the entire pipeline from the beginning.
+
+1.  **Set Up API Key:**
+    -   Ensure your `OPENAI_API_KEY` is set in the Secrets tab for **both** notebooks.
+2.  **Execute Phase 1:**
+    -   Open `aave_dataset_generation.ipynb` and run all the cells.
+    -   A new, timestamped `.json` file will be created in your Colab session storage.
+3.  **Update Path and Execute Phase 2:**
     -   Open `rag_bias_poc-2.ipynb`.
-    -   In the Colab file browser (folder icon on the left), find the `.json` file created in Phase 1.
-    -   Right-click on the file and select **"Copy path"**.
-    -   Paste this copied path into the `aave_dataset_path` variable in the first code cell of the notebook.
-    -   Run all the cells. The notebook will install its own dependencies and then use the dataset to perform the full retrieval analysis.
+    -   In the Colab file browser (folder icon), find your newly created `.json` file, right-click it, and select **"Copy path"**.
+    -   Paste this new path into the `aave_dataset_path` variable in the first code cell.
+    -   Run all the cells to perform the bias evaluation on your custom-generated dataset.
 
 ## Key Findings and Conclusion
 
