@@ -2,7 +2,7 @@
 
 This repository is a proof-of-concept (PoC) study exploring whether RAG systems show bias against non-mainstream varieties of English.  
 The aim is to test if retrieval performance differs when queries are expressed in dialectal English (e.g. African American Vernacular English, Australian English, Indian English) compared to mainstream forms.  
-The broader goal is to develop methods for detecting and mitigating such bias, making RAG pipelines more equitable and inclusive.  
+The broader goal is to develop methods for detecting and mitigating such bias, making RAG pipelines more equitable and inclusive.
 
 The current prototype uses paired datasets of Standard American English (SAE) and synthetically generated dialectal queries to compare retrieval accuracy across different models.
 
@@ -10,10 +10,11 @@ The current prototype uses paired datasets of Standard American English (SAE) an
 
 This project is structured as a two-phase pipeline, with each phase corresponding to a Jupyter notebook:
 
-1.  **Phase 1: Dataset Generation (**`aave_dataset_generation.ipynb`**)**
-    -   This notebook creates a parallel dataset of question pairs. It sources questions from the SQuAD 1.1 dataset, filters them for suitability, and then uses a large language model (GPT-4) with carefully designed prompts to generate synthetic AAVE paraphrases for each SAE question. The output is a JSON file containing paired queries, each aligned to a gold-standard context document via its `squad_idx`.
-2.  **Phase 2: Retrieval Bias Evaluation (**`rag_bias_poc-2.ipynb`**)**
-    -   This notebook ingests the dataset from Phase 1 to run a controlled retrieval experiment. It compares the performance of a sparse retriever (BM25) and a dense retriever (OpenAI's `text-embedding-3-small` + ChromaDB) on both the SAE and AAVE queries. The analysis is multi-faceted, examining performance at different retrieval depths and using multiple metrics to test for bias.
+1. **Phase 1: Dataset Generation ([`aave_dataset_generation.ipynb`](https://github.com/EsmaeilNarimissa/Dialectal-Retrieval-Bias/blob/main/aave_dataset_generation_2.ipynb))**  
+   - This notebook creates a parallel dataset of question pairs. It sources questions from the SQuAD 1.1 dataset, filters them for suitability, and then uses a large language model (GPT-4) with carefully designed prompts to generate synthetic AAVE paraphrases for each SAE question. The output is a JSON file containing paired queries, each aligned to a gold-standard context document via its `squad_idx`.
+
+2. **Phase 2: Retrieval Bias Evaluation ([`rag_bias_poc_2.ipynb`](https://github.com/EsmaeilNarimissa/Dialectal-Retrieval-Bias/blob/main/rag_bias_poc_2.ipynb))**  
+   - This notebook ingests the dataset from Phase 1 to run a controlled retrieval experiment. It compares the performance of a sparse retriever (BM25) and a dense retriever (OpenAI's `text-embedding-3-small` + ChromaDB) on both the SAE and AAVE queries. The analysis is multi-faceted, examining performance at different retrieval depths and using multiple metrics to test for bias.
 
 ## Methodology
 
